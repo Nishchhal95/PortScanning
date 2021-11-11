@@ -59,10 +59,5 @@ namespace PortScanning
         {
             //TODO: Add something else
         }
-
-        private void Gm_Feature()
-        {
-
-        }
     }
 }
