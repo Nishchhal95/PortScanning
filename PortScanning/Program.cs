@@ -51,6 +51,12 @@ namespace PortScanning
         private void XyzTest()
         {
             // TODO: Add something here
+
+        }
+
+        private void AnotherTest()
+        {
+            //TODO: Add something else
         }
     }
 }
